@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avy2025
 - 👀 I’m interested in CODING.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Pyhton.
 - 💞️ I’m looking to collaborate on GUTHUB and LEARN.
 - 📫 Twitter - https://twitter.com/RanjanT32852026 .
 - 😄 Pronouns: he/His
