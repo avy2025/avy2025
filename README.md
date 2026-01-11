@@ -1,7 +1,12 @@
 <!-- Profile README for github.com/avy2025 -->
 
-<h1 align="center">Hi, I'm Avy 👋</h1>
-<h3 align="center">B.Tech AIML @ Delhi Technical Campus • Full‑Stack & AI/ML Developer • Hackathon Enthusiast</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00C853&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ranjan+Thakur;AI%2FML+Student;Aspiring+AIML+Engineer"
+    alt="Typing SVG"
+  />
+</p>
+
 
 ---
 
