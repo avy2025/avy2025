@@ -45,7 +45,6 @@
 ## 🧠 Leadership & Activities
 
 - 🎓 **President @ ACE-DTC**
-- 🏆 Smart India Hackathon (SIH) Participant
 - 📢 Organized tech events, seminars & workshops
 - 🌐 Building an active student tech community
 
@@ -100,35 +99,6 @@
 - 🎯 Real-world problem solving with ML & Full-Stack
 
 > 💬 *“Still debugging… but loving every moment of it.”* 🐛💻
-
----
-
-## 🏆 Featured Projects
-
-### 🌿 [SymptomSage-VEDIC](https://github.com/avy2025/SymptomSage---VEDIC)
-> AI-powered health assistant blending **Ayurvedic wisdom** with **modern ML**
-- **Tech:** TypeScript, AI/ML, NLP
-- **Impact:** Suggests herbal remedies & lifestyle guidance based on symptoms
-
-### ❤️ [Heart Failure Prediction](https://github.com/avy2025/heart-failure-prediction)
-> Machine learning model for predicting heart failure risk using clinical data
-- **Tech:** Python, Scikit-learn, Pandas
-- **Focus:** Feature engineering & robust classification pipeline
-
-### 🗣️ [LiveTranslateSubs](https://github.com/avy2025/LiveTranslateSubs)
-> Real-time speech-to-text & translation web application
-- **Tech:** Flask, Socket.IO, OpenAI Whisper (faster-whisper)
-- **Features:** Live mic capture, instant translation, browser-based UI
-
-### 🛠️ [FIXIT](https://github.com/avy2025/FIXIT)
-> Full-stack platform for logging, tracking & resolving issues
-- **Tech:** React, Node.js, Express, REST APIs
-- **Focus:** Clean UI, efficient workflows, real-world usability
-
-### 🤖 [Gemini AI Chatbot](https://github.com/avy2025/Gemini-AI-Chatbot)
-> Conversational AI chatbot powered by Google Gemini API
-- **Tech:** HTML, JavaScript, Gemini API
-- **Features:** Prompt handling, modern UI, smooth conversational flow
 
 ---
 
