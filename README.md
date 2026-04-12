@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00C853&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ranjan+Thakur;Aspiring+AIML+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00C853&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ranjan+Thakur;AIML+Engineer"
     alt="Typing SVG"
   />
 </p>
