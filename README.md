@@ -35,59 +35,11 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Passionate about **AI Systems, ML, and Full-Stack Development**
-- ⚡ Focused on building **real-world, production-ready applications**
-- 🧠 Exploring **LLMs, RAG pipelines, and intelligent automation**
-- 💡 Strong interest in **system design + scalable architectures**
-
----
-
-## 🚀 Featured Projects (Top Work)
-
-### 🧠 **TaskPilotAI**
-- AI-powered task automation system using **RAG + LLMs**
-- Built with **FastAPI, APIs, and intelligent workflows**
-- Focused on real-world productivity use cases
-
----
-
-### 🌐 **LiveTranslateSub**
-- Real-time **speech-to-text + multilingual translation system**
-- Designed for **live captions & accessibility**
-- Uses streaming-based processing concepts
-
----
-
-### 📊 **NetworkTrafficAnalyzer**
-- Real-time network monitoring & logging system  
-- Tracks bandwidth usage with **CSV logging + analytics**
-- Demonstrates **system-level engineering skills**
-
----
-
-### 🧑‍💻 **Code Execution Visualizer**
-- Step-by-step code execution engine  
-- Displays **variables, flow, and program state**
-- Helps understand internal working of programs
-
----
-
-### 💼 **RecruitDesk**
-- Full-stack **Applicant Tracking System (ATS)**
-- Includes candidate pipeline & dashboard system  
-- Built using REST APIs and modern web stack
-
----
-
-### 🤖 **AI-BagCounter**
-- Computer Vision project for **real-time object counting**
-- Uses ML concepts for detection & tracking
-
----
-
-### 🏥 **SymptomSage**
-- AI-based symptom checker & health assistant  
-- Demonstrates ML classification + healthcare use case
+- 🤖 Passionate about **AI/ML + Full-Stack Development**
+- ⚡ Focused on building **real-world, scalable applications**
+- 🧠 Exploring **LLMs, RAG systems, and intelligent automation**
+- 💡 Strong interest in **System Design & Backend Engineering**
+- 🛠️ Love working on **real-time systems & AI-powered tools**
 
 ---
 
@@ -95,7 +47,7 @@
 
 - 🎓 **President @ ACE-DTC**
 - 📢 Organized tech events, hackathons & workshops
-- 🌐 Building a strong **developer & AI community**
+- 🌐 Building an active **developer & AI community**
 
 ---
 
@@ -117,19 +69,25 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0A3D2E?style=for-the-badge&logo=node.js&logoColor=00E676)
 ![Express.js](https://img.shields.io/badge/Express.js-0A3D2E?style=for-the-badge&logo=express&logoColor=00E676)
 ![Flask](https://img.shields.io/badge/Flask-0A3D2E?style=for-the-badge&logo=flask&logoColor=00E676)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A3D2E?style=for-the-badge&logo=fastapi&logoColor=00E676)
 ![REST API](https://img.shields.io/badge/REST_API-0A3D2E?style=for-the-badge&logoColor=00E676)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0A3D2E?style=for-the-badge&logoColor=00E676)
 ![WebRTC](https://img.shields.io/badge/WebRTC-0A3D2E?style=for-the-badge&logoColor=00E676)
 
 ---
 
-### 🤖 AI / ML
+### 🤖 AI / ML / CV
 ![NumPy](https://img.shields.io/badge/NumPy-0A3D2E?style=for-the-badge&logo=numpy&logoColor=00E676)
 ![Pandas](https://img.shields.io/badge/Pandas-0A3D2E?style=for-the-badge&logo=pandas&logoColor=00E676)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0A3D2E?style=for-the-badge&logo=scikit-learn&logoColor=00E676)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A3D2E?style=for-the-badge&logo=opencv&logoColor=00E676)
+![YOLO](https://img.shields.io/badge/YOLO-0A3D2E?style=for-the-badge&logoColor=00E676)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A3D2E?style=for-the-badge&logoColor=00E676)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A3D2E?style=for-the-badge&logoColor=00E676)
-![RAG](https://img.shields.io/badge/RAG_Systems-0A3D2E?style=for-the-badge&logoColor=00E676)
+![NLP](https://img.shields.io/badge/NLP-0A3D2E?style=for-the-badge&logoColor=00E676)
 ![LLMs](https://img.shields.io/badge/LLMs-0A3D2E?style=for-the-badge&logoColor=00E676)
+![RAG](https://img.shields.io/badge/RAG_Systems-0A3D2E?style=for-the-badge&logoColor=00E676)
+![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-0A3D2E?style=for-the-badge&logoColor=00E676)
 
 ---
 
@@ -143,6 +101,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-0A3D2E?style=for-the-badge&logo=vercel&logoColor=00E676)
 ![Netlify](https://img.shields.io/badge/Netlify-0A3D2E?style=for-the-badge&logo=netlify&logoColor=00E676)
 ![Render](https://img.shields.io/badge/Render-0A3D2E?style=for-the-badge&logoColor=00E676)
+![Docker](https://img.shields.io/badge/Docker-0A3D2E?style=for-the-badge&logo=docker&logoColor=00E676)
 ![Postman](https://img.shields.io/badge/Postman-0A3D2E?style=for-the-badge&logo=postman&logoColor=00E676)
 
 ---
@@ -150,18 +109,22 @@
 ## 🌱 Interests
 
 - 🏥 AI in Healthcare  
-- ♿ Accessibility Tech (real-time translation, assistive AI)  
-- 🌍 Scalable AI Systems  
-- 🎯 Building impactful real-world solutions  
+- ♿ Accessibility Tech  
+- 🌍 Real-time AI Systems  
+- 🎯 Building scalable & impactful solutions  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧠 Building **AI Agents & RAG-based systems**
-- ⚡ Developing **real-time AI applications**
-- 💻 Strengthening **DSA + System Design**
-- 🚀 Preparing for **internships & product-based companies**
+- 🧠 AI Agents & RAG-based systems  
+- ⚡ Real-time AI applications  
+- 💻 DSA + System Design  
+- 🚀 Internship preparation  
+
+---
+
+> 💬 *“From ideas to real-world systems — building things that actually matter.”* 🚀
 
 ---
 
