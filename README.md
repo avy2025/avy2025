@@ -126,6 +126,3 @@
 
 > 💬 *“From ideas to real-world systems — building things that actually matter.”* 🚀
 
----
-
-> 💬 *“From ideas to real-world systems — building things that actually matter.”* 🚀
