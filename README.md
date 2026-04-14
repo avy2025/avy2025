@@ -1,13 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00C853&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ranjan+Thakur;AIML+Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00C853&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ranjan+Thakur;AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Building+Real-World+AI+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  🌱 AI/ML & Full-Stack Developer • B.Tech AI/ML @ Delhi Technical Campus  
+  🚀 AI/ML Engineer • Full-Stack Developer • System Builder  
+  <br/>
+  🎓 B.Tech AI/ML @ Delhi Technical Campus  
   <br/>
   📍 India 🇮🇳 • Open to internships, collaborations & hackathons
 </p>
@@ -25,7 +27,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avy2025&color=00E676&style=flat-square)
 
-*"Code. Build. Debug. Repeat."* 🚀
+*"Code. Build. Scale. Repeat."* 🚀
 
 </div>
 
@@ -33,20 +35,67 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Passionate about **AI/ML + Full-Stack Development**
-- 🌿 Built **SymptomSage-VEDIC** — Ayurvedic AI chatbot blending ancient wisdom with modern tech
-- ❤️ Developed **Heart Failure Prediction** system using ML & clinical data
-- 🗣️ Created **LiveTranslateSubs** — real-time speech-to-text & translation
-- 🛠️ Built **FIXIT** — full-stack issue tracking platform with REST APIs
-- 🤝 Integrated **Gemini AI** for conversational chatbot experiences
+- 🤖 Passionate about **AI Systems, ML, and Full-Stack Development**
+- ⚡ Focused on building **real-world, production-ready applications**
+- 🧠 Exploring **LLMs, RAG pipelines, and intelligent automation**
+- 💡 Strong interest in **system design + scalable architectures**
+
+---
+
+## 🚀 Featured Projects (Top Work)
+
+### 🧠 **TaskPilotAI**
+- AI-powered task automation system using **RAG + LLMs**
+- Built with **FastAPI, APIs, and intelligent workflows**
+- Focused on real-world productivity use cases
+
+---
+
+### 🌐 **LiveTranslateSub**
+- Real-time **speech-to-text + multilingual translation system**
+- Designed for **live captions & accessibility**
+- Uses streaming-based processing concepts
+
+---
+
+### 📊 **NetworkTrafficAnalyzer**
+- Real-time network monitoring & logging system  
+- Tracks bandwidth usage with **CSV logging + analytics**
+- Demonstrates **system-level engineering skills**
+
+---
+
+### 🧑‍💻 **Code Execution Visualizer**
+- Step-by-step code execution engine  
+- Displays **variables, flow, and program state**
+- Helps understand internal working of programs
+
+---
+
+### 💼 **RecruitDesk**
+- Full-stack **Applicant Tracking System (ATS)**
+- Includes candidate pipeline & dashboard system  
+- Built using REST APIs and modern web stack
+
+---
+
+### 🤖 **AI-BagCounter**
+- Computer Vision project for **real-time object counting**
+- Uses ML concepts for detection & tracking
+
+---
+
+### 🏥 **SymptomSage**
+- AI-based symptom checker & health assistant  
+- Demonstrates ML classification + healthcare use case
 
 ---
 
 ## 🧠 Leadership & Activities
 
 - 🎓 **President @ ACE-DTC**
-- 📢 Organized tech events, seminars & workshops
-- 🌐 Building an active student tech community
+- 📢 Organized tech events, hackathons & workshops
+- 🌐 Building a strong **developer & AI community**
 
 ---
 
@@ -60,10 +109,11 @@
 ![C++](https://img.shields.io/badge/C++-0A3D2E?style=for-the-badge&logo=cplusplus&logoColor=00E676)
 ![SQL](https://img.shields.io/badge/SQL-0A3D2E?style=for-the-badge&logo=postgresql&logoColor=00E676)
 
-### 🌐 Web & App
+---
+
+### 🌐 Web & Backend
 ![React](https://img.shields.io/badge/React-0A3D2E?style=for-the-badge&logo=react&logoColor=00E676)
 ![Next.js](https://img.shields.io/badge/Next.js-0A3D2E?style=for-the-badge&logo=nextdotjs&logoColor=00E676)
-![Vite](https://img.shields.io/badge/Vite-0A3D2E?style=for-the-badge&logo=vite&logoColor=00E676)
 ![Node.js](https://img.shields.io/badge/Node.js-0A3D2E?style=for-the-badge&logo=node.js&logoColor=00E676)
 ![Express.js](https://img.shields.io/badge/Express.js-0A3D2E?style=for-the-badge&logo=express&logoColor=00E676)
 ![Flask](https://img.shields.io/badge/Flask-0A3D2E?style=for-the-badge&logo=flask&logoColor=00E676)
@@ -71,12 +121,17 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-0A3D2E?style=for-the-badge&logoColor=00E676)
 ![WebRTC](https://img.shields.io/badge/WebRTC-0A3D2E?style=for-the-badge&logoColor=00E676)
 
+---
+
 ### 🤖 AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-0A3D2E?style=for-the-badge&logo=numpy&logoColor=00E676)
 ![Pandas](https://img.shields.io/badge/Pandas-0A3D2E?style=for-the-badge&logo=pandas&logoColor=00E676)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0A3D2E?style=for-the-badge&logo=scikit-learn&logoColor=00E676)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A3D2E?style=for-the-badge&logoColor=00E676)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-0A3D2E?style=for-the-badge&logoColor=00E676)
+![RAG](https://img.shields.io/badge/RAG_Systems-0A3D2E?style=for-the-badge&logoColor=00E676)
+![LLMs](https://img.shields.io/badge/LLMs-0A3D2E?style=for-the-badge&logoColor=00E676)
+
+---
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0A3D2E?style=for-the-badge&logo=git&logoColor=00E676)
@@ -93,24 +148,21 @@
 ---
 
 ## 🌱 Interests
-- 🏥 Healthcare + AI
-- ♿ Accessibility Tech
-- 🌍 Sustainable Solutions
-- 🎯 Real-world problem solving with ML & Full-Stack
 
-> 💬 *“Still debugging… but loving every moment of it.”* 🐛💻
+- 🏥 AI in Healthcare  
+- ♿ Accessibility Tech (real-time translation, assistive AI)  
+- 🌍 Scalable AI Systems  
+- 🎯 Building impactful real-world solutions  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🏥 Building **ML-powered healthcare solutions**
-- 🧠 Exploring **LLMs, RAG systems & AI integrations**
-- 🌍 Contributing to **open-source AI/ML projects**
-- 🚀 Strengthening **full-stack deployment & scalability skills**
+- 🧠 Building **AI Agents & RAG-based systems**
+- ⚡ Developing **real-time AI applications**
+- 💻 Strengthening **DSA + System Design**
+- 🚀 Preparing for **internships & product-based companies**
 
+---
 
-
-
-
-</div>
+> 💬 *“From ideas to real-world systems — building things that actually matter.”* 🚀
