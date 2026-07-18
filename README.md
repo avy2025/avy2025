@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00E676&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ranjan+Thakur;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Real-World+AI+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=900&color=00E676&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Ranjan+Thakur;AI%2FML+Engineer+%7C+Full-Stack+Developer;Odoo+Technical+Developer"
     alt="Typing SVG"
   />
 </p>
